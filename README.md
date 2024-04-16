@@ -8,6 +8,7 @@ value.
 3. Create a dummy json of different colleges and display the colleges in the above mentioned
 layout.
 4. Functionality to be added :
+   
 ● Sort by collegedunia rating, fees, user review rating , ascending and descending order
 ● Search by college name.
 ● Infinite Scroll
