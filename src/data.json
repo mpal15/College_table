@@ -646,5 +646,165 @@
         "fees": 72000,
         "userReviewRating": 4.3,
         "featured": false
-      }   
+      }   ,
+      {
+        "id": 82,
+        "name": "University of Nevada, Reno",
+        "collegeDuniaRating": 4.5,
+        "fees": 73000,
+        "userReviewRating": 4.4,
+        "featured": true
+      },
+      {
+        "id": 83,
+        "name": "University of Nebraska-Lincoln",
+        "collegeDuniaRating": 4.4,
+        "fees": 74000,
+        "userReviewRating": 4.3,
+        "featured": false
+      },
+      {
+        "id": 84,
+        "name": "University of South Dakota",
+        "collegeDuniaRating": 4.6,
+        "fees": 75000,
+        "userReviewRating": 4.5,
+        "featured": true
+      },
+      {
+        "id": 85,
+        "name": "University of Wyoming",
+        "collegeDuniaRating": 4.3,
+        "fees": 76000,
+        "userReviewRating": 4.2,
+        "featured": false
+      },
+      {
+        "id": 86,
+        "name": "Montana State University",
+        "collegeDuniaRating": 4.5,
+        "fees": 77000,
+        "userReviewRating": 4.4,
+        "featured": true
+      },
+      {
+        "id": 87,
+        "name": "University of Montana",
+        "collegeDuniaRating": 4.4,
+        "fees": 78000,
+        "userReviewRating": 4.3,
+        "featured": false
+      },
+      {
+        "id": 88,
+        "name": "North Dakota State University",
+        "collegeDuniaRating": 4.6,
+        "fees": 79000,
+        "userReviewRating": 4.5,
+        "featured": true
+      },
+      {
+        "id": 89,
+        "name": "South Dakota State University",
+        "collegeDuniaRating": 4.3,
+        "fees": 80000,
+        "userReviewRating": 4.2,
+        "featured": false
+      },
+      {
+        "id": 90,
+        "name": "University of Alaska Fairbanks",
+        "collegeDuniaRating": 4.5,
+        "fees": 81000,
+        "userReviewRating": 4.4,
+        "featured": true
+      },
+      {
+        "id": 91,
+        "name": "University of Hawaii at Manoa",
+        "collegeDuniaRating": 4.4,
+        "fees": 82000,
+        "userReviewRating": 4.3,
+        "featured": false
+      },
+      {
+        "id": 92,
+        "name": "University of Vermont",
+        "collegeDuniaRating": 4.5,
+        "fees": 83000,
+        "userReviewRating": 4.4,
+        "featured": true
+      },
+      {
+        "id": 93,
+        "name": "University of Rhode Island",
+        "collegeDuniaRating": 4.4,
+        "fees": 84000,
+        "userReviewRating": 4.3,
+        "featured": false
+      },
+      {
+        "id": 94,
+        "name": "University of Maine",
+        "collegeDuniaRating": 4.6,
+        "fees": 85000,
+        "userReviewRating": 4.5,
+        "featured": true
+      },
+      {
+        "id": 95,
+        "name": "University of New Hampshire",
+        "collegeDuniaRating": 4.3,
+        "fees": 86000,
+        "userReviewRating": 4.2,
+        "featured": false
+      },
+      {
+        "id": 96,
+        "name": "University of Connecticut",
+        "collegeDuniaRating": 4.5,
+        "fees": 87000,
+        "userReviewRating": 4.4,
+        "featured": true
+      },
+      {
+        "id": 97,
+        "name": "University of Massachusetts Boston",
+        "collegeDuniaRating": 4.4,
+        "fees": 88000,
+        "userReviewRating": 4.3,
+        "featured": false
+      },
+      {
+        "id": 98,
+        "name": "University of Delaware",
+        "collegeDuniaRating": 4.6,
+        "fees": 89000,
+        "userReviewRating": 4.5,
+        "featured": true
+      },
+      {
+        "id": 99,
+        "name": "University of Maryland, Baltimore County",
+        "collegeDuniaRating": 4.3,
+        "fees": 90000,
+        "userReviewRating": 4.2,
+        "featured": false
+      },
+      {
+        "id": 100,
+        "name": "University of Massachusetts Dartmouth",
+        "collegeDuniaRating": 4.5,
+        "fees": 91000,
+        "userReviewRating": 4.4,
+        "featured": true
+      },
+      {
+        "id": 101,
+        "name": "University of Massachusetts Lowell",
+        "collegeDuniaRating": 4.4,
+        "fees": 92000,
+        "userReviewRating": 4.3,
+        "featured": false
+      }    
   ]
