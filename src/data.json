@@ -1,0 +1,650 @@
+[
+    {
+      "id": 1,
+      "name": "University of Science",
+      "collegeDuniaRating": 4.7,
+      "fees": 8000,
+      "userReviewRating": 4.5,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Central University",
+      "collegeDuniaRating": 4.5,
+      "fees": 7000,
+      "userReviewRating": 4.2,
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Global Institute of Technology",
+      "collegeDuniaRating": 4.2,
+      "fees": 7500,
+      "userReviewRating": 4.0,
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "National College of Engineering",
+      "collegeDuniaRating": 4.6,
+      "fees": 8500,
+      "userReviewRating": 4.3,
+      "featured": false
+    },
+    {
+      "id": 5,
+      "name": "Sunrise University",
+      "collegeDuniaRating": 4.4,
+      "fees": 7200,
+      "userReviewRating": 4.1,
+      "featured": false
+    },
+    {
+      "id": 6,
+      "name": "City College of Management",
+      "collegeDuniaRating": 4.3,
+      "fees": 6800,
+      "userReviewRating": 4.0,
+      "featured": true
+    },
+    {
+      "id": 7,
+      "name": "Golden State University",
+      "collegeDuniaRating": 4.8,
+      "fees": 9000,
+      "userReviewRating": 4.6,
+      "featured": true
+    },
+    {
+      "id": 8,
+      "name": "Pacific Institute of Technology",
+      "collegeDuniaRating": 4.1,
+      "fees": 7800,
+      "userReviewRating": 3.9,
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Mountain View College",
+      "collegeDuniaRating": 4.0,
+      "fees": 7300,
+      "userReviewRating": 3.8,
+      "featured": false
+    },
+    {
+      "id": 10,
+      "name": "Royal Academy of Engineering",
+      "collegeDuniaRating": 4.9,
+      "fees": 9500,
+      "userReviewRating": 4.7,
+      "featured": true
+    },
+    {
+        "id": 11,
+        "name": "IIT DELHI",
+        "collegeDuniaRating": 4.9,
+        "fees": 9500,
+        "userReviewRating": 4.7,
+        "featured": true
+      },
+      {
+        "id": 12,
+        "name": "Harvard University",
+        "collegeDuniaRating": 4.8,
+        "fees": 40000,
+        "userReviewRating": 4.7,
+        "featured": true
+      },
+      {
+        "id": 13,
+        "name": "Stanford University",
+        "collegeDuniaRating": 4.7,
+        "fees": 45000,
+        "userReviewRating": 4.6,
+        "featured": true
+      },
+      {
+        "id": 14,
+        "name": "Massachusetts Institute of Technology (MIT)",
+        "collegeDuniaRating": 4.9,
+        "fees": 47000,
+        "userReviewRating": 4.8,
+        "featured": true
+      },
+      {
+        "id": 15,
+        "name": "California Institute of Technology (Caltech)",
+        "collegeDuniaRating": 4.6,
+        "fees": 48000,
+        "userReviewRating": 4.5,
+        "featured": false
+      },
+      {
+        "id": 15,
+        "name": "University of Cambridge",
+        "collegeDuniaRating": 4.7,
+        "fees": 42000,
+        "userReviewRating": 4.6,
+        "featured": false
+      },
+      {
+        "id": 17,
+        "name": "University of Oxford",
+        "collegeDuniaRating": 4.8,
+        "fees": 43000,
+        "userReviewRating": 4.7,
+        "featured": true
+      },
+      {
+        "id": 18,
+        "name": "Princeton University",
+        "collegeDuniaRating": 4.7,
+        "fees": 44000,
+        "userReviewRating": 4.6,
+        "featured": false
+      },
+      {
+        "id": 19,
+        "name": "Yale University",
+        "collegeDuniaRating": 4.6,
+        "fees": 46000,
+        "userReviewRating": 4.5,
+        "featured": false
+      },
+      {
+        "id": 20,
+        "name": "University of Chicago",
+        "collegeDuniaRating": 4.5,
+        "fees": 47000,
+        "userReviewRating": 4.4,
+        "featured": true
+      },
+      {
+        "id": 21,
+        "name": "Columbia University",
+        "collegeDuniaRating": 4.6,
+        "fees": 49000,
+        "userReviewRating": 4.5,
+        "featured": false
+      } ,
+      {
+        "id": 22,
+        "name": "University of California, Berkeley",
+        "collegeDuniaRating": 4.7,
+        "fees": 46000,
+        "userReviewRating": 4.6,
+        "featured": false
+      },
+      {
+        "id": 23,
+        "name": "University of Michigan",
+        "collegeDuniaRating": 4.6,
+        "fees": 45000,
+        "userReviewRating": 4.5,
+        "featured": true
+      },
+      {
+        "id": 24,
+        "name": "Cornell University",
+        "collegeDuniaRating": 4.8,
+        "fees": 47000,
+        "userReviewRating": 4.7,
+        "featured": true
+      },
+      {
+        "id": 25,
+        "name": "University of Pennsylvania",
+        "collegeDuniaRating": 4.7,
+        "fees": 48000,
+        "userReviewRating": 4.6,
+        "featured": false
+      },
+      {
+        "id": 26,
+        "name": "University of Texas at Austin",
+        "collegeDuniaRating": 4.5,
+        "fees": 44000,
+        "userReviewRating": 4.4,
+        "featured": true
+      },
+      {
+        "id": 27,
+        "name": "University of Washington",
+        "collegeDuniaRating": 4.6,
+        "fees": 43000,
+        "userReviewRating": 4.5,
+        "featured": false
+      },
+      {
+        "id": 28,
+        "name": "University of Wisconsin-Madison",
+        "collegeDuniaRating": 4.5,
+        "fees": 42000,
+        "userReviewRating": 4.4,
+        "featured": true
+      },
+      {
+        "id": 29,
+        "name": "University of Illinois Urbana-Champaign",
+        "collegeDuniaRating": 4.6,
+        "fees": 44000,
+        "userReviewRating": 4.5,
+        "featured": false
+      },
+      {
+        "id": 30,
+        "name": "University of Florida",
+        "collegeDuniaRating": 4.4,
+        "fees": 43000,
+        "userReviewRating": 4.3,
+        "featured": true
+      },
+      {
+        "id": 31,
+        "name": "University of North Carolina at Chapel Hill",
+        "collegeDuniaRating": 4.5,
+        "fees": 45000,
+        "userReviewRating": 4.4,
+        "featured": false
+      },
+      {
+        "id": 32,
+        "name": "University of California, Los Angeles",
+        "collegeDuniaRating": 4.7,
+        "fees": 47000,
+        "userReviewRating": 4.6,
+        "featured": true
+      },
+      {
+        "id": 33,
+        "name": "University of Southern California",
+        "collegeDuniaRating": 4.6,
+        "fees": 48000,
+        "userReviewRating": 4.5,
+        "featured": false
+      },
+      {
+        "id": 34,
+        "name": "University of Virginia",
+        "collegeDuniaRating": 4.8,
+        "fees": 46000,
+        "userReviewRating": 4.7,
+        "featured": true
+      },
+      {
+        "id": 35,
+        "name": "University of Georgia",
+        "collegeDuniaRating": 4.5,
+        "fees": 45000,
+        "userReviewRating": 4.4,
+        "featured": false
+      },
+      {
+        "id": 36,
+        "name": "University of Minnesota",
+        "collegeDuniaRating": 4.6,
+        "fees": 44000,
+        "userReviewRating": 4.5,
+        "featured": true
+      },
+      {
+        "id": 37,
+        "name": "University of Maryland, College Park",
+        "collegeDuniaRating": 4.7,
+        "fees": 43000,
+        "userReviewRating": 4.6,
+        "featured": false
+      },
+      {
+        "id": 38,
+        "name": "University of Pittsburgh",
+        "collegeDuniaRating": 4.5,
+        "fees": 42000,
+        "userReviewRating": 4.4,
+        "featured": true
+      },
+      {
+        "id": 39,
+        "name": "University of Iowa",
+        "collegeDuniaRating": 4.6,
+        "fees": 44000,
+        "userReviewRating": 4.5,
+        "featured": false
+      },
+      {
+        "id": 40,
+        "name": "University of Arizona",
+        "collegeDuniaRating": 4.4,
+        "fees": 43000,
+        "userReviewRating": 4.3,
+        "featured": true
+      },
+      {
+        "id": 41,
+        "name": "Ohio State University",
+        "collegeDuniaRating": 4.5,
+        "fees": 45000,
+        "userReviewRating": 4.4,
+        "featured": false
+      },
+      {
+        "id": 42,
+        "name": "University of Colorado Boulder",
+        "collegeDuniaRating": 4.6,
+        "fees": 46000,
+        "userReviewRating": 4.5,
+        "featured": true
+      },
+      {
+        "id": 43,
+        "name": "University of Utah",
+        "collegeDuniaRating": 4.5,
+        "fees": 47000,
+        "userReviewRating": 4.4,
+        "featured": false
+      },
+      {
+        "id": 44,
+        "name": "Texas A&M University",
+        "collegeDuniaRating": 4.7,
+        "fees": 48000,
+        "userReviewRating": 4.6,
+        "featured": true
+      },
+      {
+        "id": 45,
+        "name": "University of California, San Diego",
+        "collegeDuniaRating": 4.6,
+        "fees": 45000,
+        "userReviewRating": 4.5,
+        "featured": false
+      },
+      {
+        "id": 46,
+        "name": "University of Massachusetts Amherst",
+        "collegeDuniaRating": 4.4,
+        "fees": 44000,
+        "userReviewRating": 4.3,
+        "featured": true
+      },
+      {
+        "id": 47,
+        "name": "University of Oregon",
+        "collegeDuniaRating": 4.5,
+        "fees": 43000,
+        "userReviewRating": 4.4,
+        "featured": false
+      },
+      {
+        "id": 48,
+        "name": "University of California, Irvine",
+        "collegeDuniaRating": 4.7,
+        "fees": 42000,
+        "userReviewRating": 4.6,
+        "featured": true
+      },
+      {
+        "id": 49,
+        "name": "University of Connecticut",
+        "collegeDuniaRating": 4.5,
+        "fees": 41000,
+        "userReviewRating": 4.4,
+        "featured": false
+      },
+      {
+        "id": 50,
+        "name": "University of Virginia",
+        "collegeDuniaRating": 4.8,
+        "fees": 49000,
+        "userReviewRating": 4.7,
+        "featured": true
+      },
+      {
+        "id": 51,
+        "name": "University of Wisconsin-Milwaukee",
+        "collegeDuniaRating": 4.4,
+        "fees": 40000,
+        "userReviewRating": 4.3,
+        "featured": false
+      },
+      {
+        "id": 52,
+        "name": "University of Houston",
+        "collegeDuniaRating": 4.5,
+        "fees": 43000,
+        "userReviewRating": 4.4,
+        "featured": true
+      },
+      {
+        "id": 53,
+        "name": "University of Cincinnati",
+        "collegeDuniaRating": 4.4,
+        "fees": 44000,
+        "userReviewRating": 4.3,
+        "featured": false
+      },
+      {
+        "id": 54,
+        "name": "University of South Florida",
+        "collegeDuniaRating": 4.6,
+        "fees": 45000,
+        "userReviewRating": 4.5,
+        "featured": true
+      },
+      {
+        "id": 55,
+        "name": "University of Central Florida",
+        "collegeDuniaRating": 4.5,
+        "fees": 46000,
+        "userReviewRating": 4.4,
+        "featured": false
+      },
+      {
+        "id": 56,
+        "name": "Arizona State University",
+        "collegeDuniaRating": 4.7,
+        "fees": 47000,
+        "userReviewRating": 4.6,
+        "featured": true
+      },
+      {
+        "id": 57,
+        "name": "University of Massachusetts Lowell",
+        "collegeDuniaRating": 4.4,
+        "fees": 48000,
+        "userReviewRating": 4.3,
+        "featured": false
+      },
+      {
+        "id": 58,
+        "name": "University of Nevada, Las Vegas",
+        "collegeDuniaRating": 4.6,
+        "fees": 49000,
+        "userReviewRating": 4.5,
+        "featured": true
+      },
+      {
+        "id": 59,
+        "name": "Florida International University",
+        "collegeDuniaRating": 4.5,
+        "fees": 50000,
+        "userReviewRating": 4.4,
+        "featured": false
+      },
+      {
+        "id": 60,
+        "name": "San Diego State University",
+        "collegeDuniaRating": 4.6,
+        "fees": 51000,
+        "userReviewRating": 4.5,
+        "featured": true
+      },
+      {
+        "id": 61,
+        "name": "California State University, Long Beach",
+        "collegeDuniaRating": 4.5,
+        "fees": 52000,
+        "userReviewRating": 4.4,
+        "featured": false
+      },
+      {
+        "id": 62,
+        "name": "California State University, Fullerton",
+        "collegeDuniaRating": 4.4,
+        "fees": 53000,
+        "userReviewRating": 4.3,
+        "featured": true
+      },
+      {
+        "id": 63,
+        "name": "University of North Texas",
+        "collegeDuniaRating": 4.5,
+        "fees": 54000,
+        "userReviewRating": 4.4,
+        "featured": false
+      },
+      {
+        "id": 64,
+        "name": "University of California, Santa Barbara",
+        "collegeDuniaRating": 4.6,
+        "fees": 55000,
+        "userReviewRating": 4.5,
+        "featured": true
+      },
+      {
+        "id": 65,
+        "name": "George Mason University",
+        "collegeDuniaRating": 4.3,
+        "fees": 56000,
+        "userReviewRating": 4.2,
+        "featured": false
+      },
+      {
+        "id": 66,
+        "name": "University of California, Davis",
+        "collegeDuniaRating": 4.7,
+        "fees": 57000,
+        "userReviewRating": 4.6,
+        "featured": true
+      },
+      {
+        "id": 67,
+        "name": "University of Tennessee, Knoxville",
+        "collegeDuniaRating": 4.4,
+        "fees": 58000,
+        "userReviewRating": 4.3,
+        "featured": false
+      },
+      {
+        "id": 68,
+        "name": "Michigan State University",
+        "collegeDuniaRating": 4.5,
+        "fees": 59000,
+        "userReviewRating": 4.4,
+        "featured": true
+      },
+      {
+        "id": 69,
+        "name": "Indiana University Bloomington",
+        "collegeDuniaRating": 4.6,
+        "fees": 60000,
+        "userReviewRating": 4.5,
+        "featured": false
+      },
+      {
+        "id": 70,
+        "name": "University of Kansas",
+        "collegeDuniaRating": 4.3,
+        "fees": 61000,
+        "userReviewRating": 4.2,
+        "featured": true
+      },
+      {
+        "id": 71,
+        "name": "University of South Carolina",
+        "collegeDuniaRating": 4.4,
+        "fees": 62000,
+        "userReviewRating": 4.3,
+        "featured": false
+      },
+      {
+        "id": 72,
+        "name": "University of Alabama",
+        "collegeDuniaRating": 4.5,
+        "fees": 63000,
+        "userReviewRating": 4.4,
+        "featured": true
+      },
+      {
+        "id": 73,
+        "name": "University of Kentucky",
+        "collegeDuniaRating": 4.4,
+        "fees": 64000,
+        "userReviewRating": 4.3,
+        "featured": false
+      },
+      {
+        "id": 74,
+        "name": "University of Iowa",
+        "collegeDuniaRating": 4.6,
+        "fees": 65000,
+        "userReviewRating": 4.5,
+        "featured": true
+      },
+      {
+        "id": 75,
+        "name": "University of Oklahoma",
+        "collegeDuniaRating": 4.3,
+        "fees": 66000,
+        "userReviewRating": 4.2,
+        "featured": false
+      },
+      {
+        "id": 76,
+        "name": "University of Oregon",
+        "collegeDuniaRating": 4.5,
+        "fees": 67000,
+        "userReviewRating": 4.4,
+        "featured": true
+      },
+      {
+        "id": 77,
+        "name": "University of Mississippi",
+        "collegeDuniaRating": 4.4,
+        "fees": 68000,
+        "userReviewRating": 4.3,
+        "featured": false
+      },
+      {
+        "id": 78,
+        "name": "Louisiana State University",
+        "collegeDuniaRating": 4.6,
+        "fees": 69000,
+        "userReviewRating": 4.5,
+        "featured": true
+      },
+      {
+        "id": 79,
+        "name": "University of Arkansas",
+        "collegeDuniaRating": 4.3,
+        "fees": 70000,
+        "userReviewRating": 4.2,
+        "featured": false
+      },
+      {
+        "id": 80,
+        "name": "University of New Mexico",
+        "collegeDuniaRating": 4.5,
+        "fees": 71000,
+        "userReviewRating": 4.4,
+        "featured": true
+      },
+      {
+        "id": 81,
+        "name": "Florida State University",
+        "collegeDuniaRating": 4.4,
+        "fees": 72000,
+        "userReviewRating": 4.3,
+        "featured": false
+      }   
+  ]
